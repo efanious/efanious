@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m an Android Developer
 - 🌱 I’m currently learning Kotlin and more advanced Android Topics
+
+![Efana's GitHub stats](https://github-readme-stats.vercel.app/api?username=efanious&count_private=true)
